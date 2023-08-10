@@ -5,7 +5,7 @@
     xmlns="sap.m"
 >
     <Page
-        id="page"
+        id="mypage"
         title="{i18n>title}"
     >
         <IllustratedMessage id="ilm1" enableVerticalResponsiveness="true" illustrationType="sapIllus-SuccessBalloon">
